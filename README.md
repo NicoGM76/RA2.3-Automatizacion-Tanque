@@ -32,3 +32,19 @@ La documentación del proyecto se está organizando en la carpeta [docs](./docs/
 10. [Referencias](./docs/10-referencias.md)
 
 > Nota: estas páginas sirven como base de la Wiki final de GitHub. Las secciones de CODESYS, OpenPLC y pruebas se completarán con capturas y resultados finales.
+
+---
+
+# Continuación RA3.2 - Gemelo Digital / IoT
+
+El proyecto continúa en **RA3.2**, donde el activo físico y la HMI desarrollados en RA2.3 se integran mediante **Modbus** y posteriormente con una plataforma IoT.
+
+📘 **[Ver avance de la Wiki RA3.2 - Gemelo Digital](./docs/11-ra3-2-gemelo-digital.md)**
+
+Estado actual de RA3.2:
+
+- ✅ Activo físico reutilizado y validado.
+- ✅ Lógica OpenPLC conservada.
+- ✅ Variante `Tanque_V2_Modbus` configurada con Modbus RTU.
+- 🟡 Comunicación Arduino ↔ CODESYS en implementación.
+- ⏳ Publicación y control desde plataforma IoT pendientes.
